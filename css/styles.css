@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Cairo:wght@200;300;400;600;700;900&family=Fjalla+One&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: 'Roboto Slab';
+  background: #fff;
+}
+
+.hover {
+  transition: background-color 0.2s ease, transform 0.2s ease !important;
+}
+
+.hover:hover {
+  transform: translateY(-3px) !important;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #F24465;
+}
+
+::selection {
+  color: #fff;
+  background: #F24465;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+::-webkit-scrollbar-button {
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e1e1e1;
+  border: 0 #fff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #fff;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: #a6a6a6;
+}
+
+::-webkit-scrollbar-track {
+  background: #4b5a68;
+  border: 1px #fff;
+}
+
+::-webkit-scrollbar-track:active,
+::-webkit-scrollbar-track:hover {
+  background: #4b5a68;
+}
+
+.bg-red-500 {
+  background: #F01938 !important;
+}
+
+.text-red-500 {
+  color: #F01938 !important;
+}
