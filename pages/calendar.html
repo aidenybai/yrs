@@ -34,7 +34,10 @@
   <body>
     <header class="text-gray-700 body-font">
       <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a href="/" class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0 hover">
+        <a
+          href="/"
+          class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0 hover"
+        >
           <img src="/img/yrs-logo.svg" width="50px" />
           <span class="ml-3 text-xl">Youth Research Scholars</span>
         </a>
@@ -60,11 +63,7 @@
                   >Student Resources</a
                 >
               </li>
-              <li>
-                <a class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap" href="#"
-                  >Project Dashboard</a
-                >
-              </li>
+
               <li>
                 <a
                   class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
@@ -162,12 +161,11 @@
               </li>
             </ul>
           </div>
-          <a class="rounded-t py-2 px-4 block whitespace-no-wrap" href="#">Support</a>
         </nav>
-        <button
+        <a
           class="inline-flex hover items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0 shadow-sm"
         >
-          Dashboard
+          Interest Form
           <svg
             fill="none"
             stroke="currentColor"
@@ -179,9 +177,23 @@
           >
             <path d="M5 12h14M12 5l7 7-7 7"></path>
           </svg>
-        </button>
+        </a>
       </div>
     </header>
+
+    <section class="text-gray-700 body-font">
+      <div class="container px-5 py-24 mx-auto">
+        <iframe
+          class="mx-auto"
+          src="https://calendar.google.com/calendar/embed?src=5ngk1lrcc9c5c7j70g09tprirs%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+          style="border: 0"
+          width="800"
+          height="600"
+          frameborder="0"
+          scrolling="no"
+        ></iframe>
+      </div>
+    </section>
 
     <footer class="text-gray-700 body-font">
       <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
