@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+ 
+
+
+Covid-19: Problem and Potential Solution
+Caleb Ge
+Innova FLL 2020
+Abstract
+	COVID-19 is killing millions, breaking apart families, ruining lives. Its symptoms may be similar to the common Influenza virus, but its death rate, spread, are all higher and more dangerous than the flu. There’s no effective way to cure it. You can only attempt to block it from the healthy. This solution will scan the users heat, detecting a fever. It would also give the user a quiz, allowing them to tell the system about their conditions, like a doctor to talk to. It would then rate you, and if you are tested negative, you can go out, bringing back the economy. 
+
+The Rise and Peak of COVID-19
+	Right now, the COVID-19 crisis is at its peak in the United States of America. People are dying and suffering by thousands. But, due to reopening, a false sense of security has been placed upon the people, making them think that they’ll be safe when they go out. But this can be prevented. If the user can know if they have COVID, after they scanned for a fever and took a quiz. Then they could go out, knowing that it is safe. 
+Historical Overview
+	At the beginning of COVID-19, many people in the US did not think of it as a big deal, they thought that it was going to be fine. “In early and mid-January 2020, the virus spread to other Chinese provinces, helped by the Chinese New Year migration and Wuhan being a transport hub and major rail interchange.” (Wikipedia, 2020). Due to this, China was soon completely infected with new cases each day. While in the US, people still didn’t worry too much about the virus. While all this was playing out, the stock market was falling fast, linked here (2020). This was one of the “sharpest falls since 2008,” according to Wikipedia (2020). On ”January 20, 2020, the first US case was reported: a 35-year old man in Snohomish County, Washington.” (Holly Secon, Alyin Woodward, Dave Mosher,  2020). Then, at “March 23, 2020”, only about 1 month later, “New York City confirms 21,000 cases”. 7 days earlier, from when New York City confirmed 21,000 cases, President Trump declared COVID-19 a national emergency. People flooded the stores, taking everything, “panic” buying. This left nothing for the doctors and nurses, worsening the situation. 
+Current Trends and Practices
+	Currently, people are trying masks, quarantining, and staying 6 feet apart. These attempts are only giving a fraction of protection that people thought they would, not ensuring complete protection. This makes it so that people do not think that they can catch the virus, go outside, potentially catching the virus. After they come home, they transmit the virus to their family and/or friends. This is worsening the situation. We need to stop this right now, to have a chance at eradicating COVID, or allow this monstrosity to stay with us, killing more and more great civilizations.
+Controversies and Debates
+	This solution is new, so there are some questions about it. One: “Not everyone that has COVID-19 gets a fever.” (Claire Gillespie, 2020). How can you be sure that this solution would work? Yes, the heat scanner part of the attachment would not always work 100%. The quiz allows the user to honestly talk about how they are feeling, coughing, etc. This makes the attachment more accurate. Another could-be problem is that most people would think that the attachment, made of metal, would be very expensive. The entire attachment is made of steel alloy, a very cheap metal, and temperature guns only cost about $10-$30, so the entire attachment would probably only cost around $40-$50. Also, a lot of people do not have phones. But they easily can buy a new phone for just around $50-$500 at the most. 
+Conclusion
+	In conclusion, this attachment would not only be cheap, but effective. This would help stop the rise of COVID-19, and potentially uprooting it. We can stop this pain and suffering caused by COVID right now. We need to take action now, before it is too late.
+
+References
+
+“COVID-19 Pandemic.” Wikiwand, www.wikiwand.com/en/COVID-19_pandemic.
+Holly Secon, Aylin Woodward Dave Mosher. “A Comprehensive Timeline of the Coronavirus Pandemic at 6 Months, from China's First Case to the Present.” Business Insider, Business Insider, 30 June 2020, www.businessinsider.com/coronavirus-pandemic-timeline-history-major-events-2020-3?op=1.
+Gillespie, Claire. “You Might Have Your Temperature Checked at Stores and Restaurants as Lockdown Ends-but Will This Help?” Health.com, 29 Apr. 2020, www.health.com/condition/infectious-diseases/coronavirus/coronavirus-temperature-checks.
+Radcliffe, Shawn. “Here's Why COVID-19 Is Much Worse Than the Flu.” Healthline, Healthline Media, 14 May 2020, www.healthline.com/health-news/why-covid-19-isnt-the-flu.
+Writers, Avera. “Influenza or COVID-19, What's the Difference?” Avera,  www.avera.org/balance/infectious-disease/influenza-or-covid-19-whats-the-difference/.
+
+
+
+
+
+
+
+
+
+
+
